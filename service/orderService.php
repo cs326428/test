@@ -39,7 +39,6 @@ class orderService
     }
 
     /**
-     * 问题：怎么保证redis和mysql都成功执行 line81~88
      * 提交订单
      * @param array $goodsArr
      * @return array
